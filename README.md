@@ -4,6 +4,6 @@ I am a Software Engineer from Kenya. I am interested in, writing about and devel
 
 ## 📬 Get in touch
 
-- Twitter:[@ItsMurumba](twitter.com/ItsMurumba)
+- Twitter:[@ItsMurumba](https://twitter.com/ItsMurumba)
 - Web: [itsmurumba.dev]
 - LinkedIn: [linkedin.com/in/kelvin-murumba-1301617b]
