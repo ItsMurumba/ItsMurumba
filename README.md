@@ -1,9 +1,6 @@
 Hey 👋🏻,
 
-I am a Software Engineer from Kenya. I am interested in, writing about and developing software solutions.
-
-[![ItsMurumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmurumba&count_private=true)](https://github.com/itsmurumba/github-readme-stats)
-
+I am a Software Engineer based in Nairobi, Kenya. I am interested in writing about and developing software solutions.
 
 
 ## 📬 Get in touch
